@@ -1,7 +1,7 @@
 ---
 include:
   - docassemble.AssemblyLine:al_package.yml
-  - Affidavit_body.yml
+  - docassemble.ALAffidavitOfIndigency:affidavit_body.yml
 ---
 metadata:
   title: |
